@@ -1,4 +1,4 @@
-<br>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=137DBA&height=120&section=header"/>
 
 <p align="center">
   <img src="https://github.com/AlexandreIorio/Lionk/assets/91125307/7102af6f-d82c-486c-a186-dc218fc22513" width="20%" alt="LIONK-logo">
