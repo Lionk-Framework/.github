@@ -1,7 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=137DBA&height=120&section=header"/>
 
 <p align="center">
-  <img src="https://github.com/AlexandreIorio/Lionk/assets/91125307/7102af6f-d82c-486c-a186-dc218fc22513" width="20%" alt="LIONK-logo">
+  <img src="https://github.com/user-attachments/assets/9bb6b529-b50f-41c8-a9b3-debb394b688b"
+width="20%" alt="LIONK-logo">
 </p>
 
 <h1 align="center">LIONK Framework</h1>
